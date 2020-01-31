@@ -1,0 +1,16 @@
+# jemdoc: menu{MENU}{index.html}, nofooter  
+==Andrew Park
+
+== About me
+
+~~~
+{}{img_left}{photos/pfp.jpg}{alt text}{131}{160}{https://github.com/iznoanygod}
+Student at Rutgers University studying Electrical Engineering, Computer Science, and Mathematics set to graduate in 2022.
+~~~
+
+== Current Projects
+[https://github.com/Iznoanygod/HelloDungeon2 HelloDungeon2] - A turn-based rpg utilising swing libraries\n
+[https://github.com/Iznoanygod/Discord-Server-Manager Discord Server Manager] - A server management program that communicates through the messaging service Discord
+
+== Past Projects
+[https://github.com/Iznoanygod/HelloDungeon HelloDungeon] - A simple cli turn-based rpg written in Java
