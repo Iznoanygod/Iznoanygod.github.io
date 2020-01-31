@@ -1,0 +1,23 @@
+# jemdoc: menu{MENU}{tisc.html}, nofooter
+==TISC
+
+== Introduction
+TISC is an assembly-like programming language inspired by TIS-100, an open-ended programming game.
+
+Originally, TISC was written using Java, although an interpreter in C is also in development. TISC offers a simplified instruction set which is great for people trying to learn assembly programming.
+
+Multiple iterations of TISC exist, each building off the previous version and allowing programmers to write more powerful programs. 
+
+=== TISC
+The first iteration of the programming language, lacks many of the features that are present in the later iterations of TISC. 
+TISC is mainly meant for writing short quick scripts for calculations and introducing newcomers to assembly programming.
+TISC features a primary register, a backup register, and 16 auxiliary registers. 
+Documentation is available on the Github repository.
+
+=== TIISC
+The successor to TISC, it is backwards compatable and implements features not capable in TISC, including:
+- Access to memory
+- Implementation of libraries
+- User input during runtime
+Currently in development, more features to be added. 
+
