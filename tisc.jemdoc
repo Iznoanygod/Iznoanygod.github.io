@@ -10,10 +10,15 @@ Multiple iterations of TISC exist, each building off the previous version and al
 
 === TISC
 The first iteration of the programming language, lacks many of the features that are present in the later iterations of TISC. 
+
 TISC is mainly meant for writing short quick scripts for calculations and introducing newcomers to assembly programming.
+
 TISC features a primary register, a backup register, and 16 auxiliary registers. 
+
 Documentationand source code is available on the Github repository.
+
 [https://github.com/Iznoanygod/TISC-Java Java Implementation]
+
 [https://github.com/Iznoanygod/TISC-C C Implementation]
 
 === TIISC
