@@ -28,6 +28,7 @@ The successor to TISC, it is backwards compatable and implements features not ca
 - User input during runtime
 - Additional registers
 - Program stack
+
 Currently in development, more features to be added. 
 
 
