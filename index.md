@@ -10,7 +10,7 @@ Hobbies and Interests
 * Building Servers
 * Building Mechanical Keyboards
 
-My Research Interests Include (from most to least interested)
+My Research Interests Include
 * Computer Security (Hardware/System/Embedded)
 * Parallel/Distributed/High Performance Computing
 * Operating Systems
@@ -19,7 +19,7 @@ My Research Interests Include (from most to least interested)
 * Machine Learning & Artificial Intelligence
 * Numerical Analysis
 
-Programming Languages (from most to least proficient)
+Programming Languages
 * C/C++
 * Java
 * Go
