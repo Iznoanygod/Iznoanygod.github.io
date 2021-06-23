@@ -10,7 +10,7 @@ Hobbies and Interests
 * Building Servers
 * Building Mechanical Keyboards
 
-My Research Interests Include
+My Research Interests
 * Computer Security (Hardware/System/Embedded)
 * Parallel/Distributed/High Performance Computing
 * Operating Systems
