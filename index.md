@@ -11,11 +11,11 @@ Hobbies and Interests
 * Building Mechanical Keyboards
 
 My Research Interests
-* Computer Security (Hardware/System/Embedded)
+* Computer Security
+* Cryptography
 * Parallel/Distributed/High Performance Computing
 * Operating Systems
 * Malware Analysis
-* Cryptography
 * Machine Learning & Artificial Intelligence
 * Numerical Analysis
 
