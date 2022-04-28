@@ -9,6 +9,7 @@ Hobbies and Interests
 * Systems Programming
 * Building Servers
 * Building Mechanical Keyboards
+* Snowboarding
 
 My Research Interests
 * Computer Security
