@@ -1,6 +1,6 @@
 ## About Me
 
-* Senior and incoming graduate student at Rutgers University New Brunswick
+* Graduate student at Rutgers University New Brunswick
 * Major in Electrical & Computer Engineering, Computer Science
 * Minor in Mathematics
 
