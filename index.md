@@ -1,5 +1,4 @@
 ## About Me
-
 * Graduate student at Rutgers University New Brunswick
 * Major in Electrical & Computer Engineering, Computer Science
 * Minor in Mathematics
@@ -11,14 +10,14 @@ Hobbies and Interests
 * Building Mechanical Keyboards
 * Snowboarding
 
-My Research Interests
-* Computer Security
-* Cryptography
+My Research Interests Include
+* Computer Security (Hardware/System/Embedded)
 * Parallel/Distributed/High Performance Computing
 * Operating Systems
-* Malware Analysis
-* Machine Learning & Artificial Intelligence
-* Numerical Analysis
+* Cryptography
+
+How to contact me:
+* Email: mkbandrewp (at) gmail (dot) com
 
 Programming Languages
 * C/C++
