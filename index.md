@@ -2,6 +2,7 @@
 * Graduate student at Rutgers University New Brunswick
 * Major in Electrical & Computer Engineering, Computer Science
 * Minor in Mathematics
+* Learn more about me on my [Github Profile](https://github.com/Iznoanygod) or by downloading my [resume](https://github.com/Iznoanygod/Iznoanygod/raw/master/andrewpark.pdf)
 
 Hobbies and Interests
 * Video Games
